@@ -1,4 +1,7 @@
-## Hi there! I'm Vongai. 👋
+# Hi there! I'm Vongai. 👋 Welcome to my GitHub Portfolio 💻
+
+---
+
 <!--
 **vongaik/vongaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Vee’s GitHub Portfolio 💻
+I'm a recent summa cum laude IT graduate from Kennesaw State University. I recently built a machine learning classifier model from scratch using the python libraries NLTK and Scikit-Learn for NLP and model training to predict user sentiment from text without relying on HuggingFace transformers. I used 42,000+ user feedback dataset entries and achieved a 56% accuracy rate for emotion detection in the first 2 weeks of the project. This was part of an end-to-end Customer Support AI application I built with Python, React/TypeScript, Azure, and ML/LLM models that processed 1,000+ customer feedback entries and automated 80% of the manual response work. I'm a problem-solver with proven ability to analyze systems, secure infrastructure, design data pipelines, and support users.
+ 
+I have hands-on experience in full-stack development, machine learning, cloud systems, database work, cybersecurity, and technical support.
 
-Hi — I’m **Vee**, a recent IT grad building full-stack apps with a heavy focus on **AI / NLP**. This repo surfaces my Capstone work and other projects that show web + ML end-to-end skills.
+Find my work below. 
 
 ---
 
