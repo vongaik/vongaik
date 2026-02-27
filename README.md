@@ -61,7 +61,7 @@ CapSense AI is a full-stack system for enterprise customer feedback: sentiment, 
 **Movie SPA** — single page app using The Movie Database API. Search, filter, paginate, show cast + details. Built with jQuery, AJAX, JSON & REST.
 
 
-**Repository:** _[Movie Finder Repo](https://github.com/vongaik/digital-tech-portfolio/blob/main/ai-ml/CapSense-AI/README.md)_
+**Repository:** _[Movie Finder Repo](https://github.com/vongaik/movie-finder-app/blob/main/README.md)_
 
 ---
 
