@@ -28,7 +28,7 @@ Find my work below.
 ## 🚀 Featured Project: **CapSense AI — Sentiment Analysis & Response Generation**
 
 **Overview**  
-CapSense AI is a full-stack system for enterprise customer feedback: sentiment, emotion, sarcasm, aspect analysis, plus empathetic responses via **Phi-3 Mini**. Built with **React, Flask, and Azure**. Supports single input and CSV batch processing.
+CapSense AI is a full-stack system for enterprise customer feedback: sentiment, emotion, sarcasm, aspect analysis, plus empathetic responses via **OpenAI's LLM** and **Phi-3 Mini**. Built with **React, Flask, and Azure**. Supports single input and CSV batch processing.
 
 **Key features**
 - Sentiment classification (positive / neutral / negative)  
@@ -52,13 +52,16 @@ CapSense AI is a full-stack system for enterprise customer feedback: sentiment, 
 - Edge-case handling for empty/malformed/large CSVs  
 - Production deployment and Azure optimizations
 
-**Repository:** _insert your repo link_
+**Repository:** _[CapSense AI Repo](https://github.com/vongaik/digital-tech-portfolio/blob/main/ai-ml/CapSense-AI/README.md)_
 
 ---
 
 ## 🎬 Other Projects
 
 **Movie SPA** — single page app using The Movie Database API. Search, filter, paginate, show cast + details. Built with jQuery, AJAX, JSON & REST.
+
+
+**Repository:** _[Movie Finder Repo](https://github.com/vongaik/digital-tech-portfolio/blob/main/ai-ml/CapSense-AI/README.md)_
 
 ---
 
