@@ -67,8 +67,8 @@ CapSense AI is a full-stack system for enterprise customer feedback: sentiment, 
 
 ## 🛠 Skills & Tools
 
-**Languages:** Python · JavaScript · TypeScript · SQL · C++ · Java  
-**Libraries / Frameworks:** React · Flask · Chart.js · scikit-learn · Hugging Face · NLTK  
+**Languages:** Python · JavaScript · TypeScript · SQL · Java  
+**Libraries / Frameworks:** React · Flask · Power BI · scikit-learn · Hugging Face · NLTK  
 **DB / Cloud:** SQL Server · Azure · GitHub Actions  
 **Tools:** Postman · pytest · VS Code
 
