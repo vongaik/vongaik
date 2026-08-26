@@ -65,25 +65,9 @@ CapSense AI is a full-stack system for enterprise customer feedback: sentiment, 
 
 ---
 
-## 🛠 Skills & Tools
-
-**Languages:** Python · JavaScript · TypeScript · SQL · Java  
-**Libraries / Frameworks:** React · Flask · Power BI · scikit-learn · Hugging Face · NLTK  
-**DB / Cloud:** SQL Server · Azure · GitHub Actions  
-**Tools:** Postman · pytest · VS Code
-
----
-
 ## 📫 Contact & Quick Links
 
 ### Clickable image badges (rendered examples)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vkwenda/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vkwenda@students.kennesaw.edu)  
-[![Resume](https://img.shields.io/badge/Resume-Download-green?logo=google-docs)](https://your-resume-link.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vongai@highestec.co.zw)  
 
-### Markdown syntax (copy/paste)
-```md
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vkwenda)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vkwenda@students.kennesaw.edu)
-[![Resume](https://img.shields.io/badge/Resume-Download-green?logo=google-docs)](https://your-resume-link.com)
