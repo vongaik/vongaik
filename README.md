@@ -67,7 +67,8 @@ CapSense AI is a full-stack system for enterprise customer feedback: sentiment, 
 
 ## 📫 Contact & Quick Links
 
-### Clickable image badges (rendered examples)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vkwenda/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vongai@highestec.co.zw)  
+
+## Find more of my work in repositories below
 
