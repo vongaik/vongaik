@@ -8,6 +8,6 @@ I'm from Zimbabwe 🇿🇼, currently in the Central Africa Time Zone 🌎. Rece
 * 🔭 I’m currently going retro, working on building Thefacebook.com from scratch to learn PHP, databases and how social media works using Zuckerberg's 2004 LAMP stack. Planning to build my home lab soon.
 * 💼 I'm freelancing for an AI development company helping to train models. Seeking roles as: a Junior IT Help Desk Technician, SOC Analyst, Software Developer, or Data Analyst.
 🌱 As a native English speaker, I’m currently learning ...
-[🇫🇷](https://www.duolingo.com/profile/Vmk15)
+[![🇫🇷]](https://www.duolingo.com/profile/Vmk15)
 [🇷🇺](https://www.duolingo.com/profile/Vmk15)
 [🇯🇵](https://www.duolingo.com/profile/Vmk15)
